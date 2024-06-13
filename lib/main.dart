@@ -29,7 +29,7 @@ class _MyPageState extends State<MyPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Restaurant"),
+        title: Text("Savor Safari"),
       ),
       body: Padding(
         padding: EdgeInsets.all(5),
